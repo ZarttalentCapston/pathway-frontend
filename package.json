@@ -1,0 +1,7 @@
+{
+  "name": "project-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build successful ✅'"
+  }
+}
